@@ -38,7 +38,7 @@ Currently building: **Rooznabeh** — a full-stack advertising web app
 
 ---
 
-### Professional Links
+### 🔗 Connect With Me
 
 <table align="center">
   <tr>
