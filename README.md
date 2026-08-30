@@ -6,11 +6,17 @@
 🌍 Based in Iran — Open to Remote & Relocation to Germany  
 🚀 Currently building: **Rooznabeh** — a full-stack advertising web app
 
+<br>
+
+<a href="https://github.com/AfsanehSharafi/Afsanehsharafi/blob/main/CV_Afsaneh-Sharafi.pdf" target="_blank">
+  <img src="https://img.shields.io/badge/DOWNLOAD_CV-000000?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white">
+</a>
+
 </div>
 
 ---
 
-### 💻 Skills
+### 💻 Skills & Proficiency
 
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
@@ -32,7 +38,7 @@
 
 ---
 
-### 💛 Connect With Me
+### 🤝 Connect With Me
 
 <table align="center">
   <tr>
