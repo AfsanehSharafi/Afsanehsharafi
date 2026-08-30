@@ -1,14 +1,14 @@
 <div align="center">
 
-# Hi, I'm Afsaneh Sharafi 👋
+# Hi, I'm Afsaneh Sharafi
 
-💻 **Junior C# / .NET Developer**  
-🌍 Based in Iran — Open to Remote & Relocation to Germany  
-🚀 Currently building: **Rooznabeh** — a full-stack advertising web app
+Junior C# / .NET Developer  
+Based in Iran — Open to Remote & Relocation to Germany  
+Currently building: **Rooznabeh** — a full-stack advertising web app
 
 <br>
 
-<a href="https://github.com/AfsanehSharafi/Afsanehsharafi/blob/main/CV_Afsaneh-Sharafi.pdf" target="_blank">
+<a href="https://github.com/AfsanehSharafi/Afsanehsharafi/blob/main/CV_Afsaneh-Sharafi.pdf" target="_blank" rel="noopener noreferrer">
   <img src="https://img.shields.io/badge/DOWNLOAD_CV-000000?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white">
 </a>
 
@@ -16,7 +16,7 @@
 
 ---
 
-### 💻 Skills & Proficiency
+### Skills
 
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
@@ -32,13 +32,13 @@
 
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 ![Afsaneh's GitHub stats](https://github-readme-stats.vercel.app/api?username=AfsanehSharafi&show_icons=true&theme=radical)
 
 ---
 
-### 🤝 Connect With Me
+### Professional Links
 
 <table align="center">
   <tr>
@@ -48,28 +48,27 @@
   </tr>
   <tr>
     <td align="center">
-      <a href="mailto:info.Afsanehsharafi@gmail.com" target="_blank">Email Me</a><br><br>
-      <a href="mailto:info.Afsanehsharafi@gmail.com" target="_blank">
+      <a href="mailto:info.Afsanehsharafi@gmail.com" target="_blank" rel="noopener noreferrer">Email Me</a><br><br>
+      <a href="mailto:info.Afsanehsharafi@gmail.com" target="_blank" rel="noopener noreferrer">
         <img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white">
       </a>
     </td>
     <td align="center">
-      <a href="https://t.me/sh_private" target="_blank">Contact Me</a><br><br>
-      <a href="https://t.me/sh_private" target="_blank">
+      <a href="https://t.me/sh_private" target="_blank" rel="noopener noreferrer">Contact Me</a><br><br>
+      <a href="https://t.me/sh_private" target="_blank" rel="noopener noreferrer">
         <img src="https://img.shields.io/badge/TELEGRAM-26A5E4?style=for-the-badge&logo=telegram&logoColor=white">
       </a>
     </td>
     <td align="center">
-      <a href="https://www.linkedin.com/in/afsanehsharafi/" target="_blank">Profile</a><br><br>
-      <a href="https://www.linkedin.com/in/afsanehsharafi/" target="_blank">
+      <a href="https://www.linkedin.com/in/afsanehsharafi/" target="_blank" rel="noopener noreferrer">Profile</a><br><br>
+      <a href="https://www.linkedin.com/in/afsanehsharafi/" target="_blank" rel="noopener noreferrer">
         <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
       </a>
     </td>
   </tr>
 </table>
 
-<br>
-
 <div align="center">
-Thank you for visiting my profile! Happy Coding! 🚀
+Thank you for visiting my profile.  
+Happy Coding.
 </div>
