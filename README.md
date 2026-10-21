@@ -4,7 +4,6 @@
 
 Junior C# / .NET Developer  
 Based in Iran — Open to Remote & Relocation to Germany  
-Currently building: **Rooznabeh** — a highly scalable, full-stack ad platform built with .NET 9, Clean Architecture, Docker, and Redis.
 
 <br>
 
@@ -16,7 +15,22 @@ Currently building: **Rooznabeh** — a highly scalable, full-stack ad platform 
 
 ---
 
-### Skills
+### 🚀 Featured Project: Rooznabeh (Ad Platform)
+
+A highly scalable, full-stack advertising platform (similar to Divar) built from scratch. 
+
+*   **Architected a scalable ad platform** using **.NET 9** based on **Clean Architecture, CQRS, and DDD** principles.
+*   **Optimized database performance** (PostgreSQL) using **PgBouncer** for connection pooling, **Dapper** for high-speed reads, and advanced indexing (including **GIN** for Full-Text Search).
+*   **Implemented a robust caching layer** using **Redis** for high-traffic endpoints and **SignalR Redis Backplane** for scalable real-time chat.
+*   **Containerized the entire infrastructure** (API, DB, Redis, MinIO, Seq, Prometheus, Grafana, Nginx) using **Docker & Docker Compose**.
+*   **Secured the application** by implementing **OWASP Security Headers**, advanced **Rate Limiting**, and secure secrets management (User Secrets / `.env`).
+*   **Set up full observability** using **Prometheus & Grafana** for metrics, and **Serilog & Seq** for centralized structured logging.
+*   **Built a robust CI/CD pipeline** using **GitHub Actions** with over **570 passing tests** (Unit & Integration).
+*   **Developed a PWA-enabled React frontend** with code-splitting and offline capabilities.
+
+---
+
+### 🛠 Skills
 
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
@@ -38,7 +52,7 @@ Currently building: **Rooznabeh** — a highly scalable, full-stack ad platform 
 
 ---
 
-### GitHub Stats
+### 📊 GitHub Stats
 
 ![Afsaneh's GitHub stats](https://github-readme-stats.vercel.app/api?username=AfsanehSharafi&show_icons=true&theme=radical)
 
